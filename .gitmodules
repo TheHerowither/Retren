@@ -1,0 +1,6 @@
+[submodule "CLog"]
+	path = CLog
+	url = git@github.com:TheHerowither/CLog.git
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/glfw/glfw
